@@ -2,19 +2,9 @@
 
 body {background-image:url('https://f.cloud.github.com/assets/5040624/887463/781c7160-f9fc-11e2-8202-adac167ae9b3.jpg');}
 
-h4 {color:Pink;}
+h4 {color:Red;}
 
-h1 {color:Pink;}
-
-.navbar-inner {
-  background-image: -moz-linear-gradient(top, #dd0808, #f2f2f2);
-  background-image: -ms-linear-gradient(top, #dd0808, #f2f2f2);
-  background-image: -webkit-gradient(linear, 0 0, 0 100%, from(#dd0808), to(#f2f2f2));
-  background-image: -webkit-linear-gradient(top, #dd0808, #f2f2f2);
-  background-image: -o-linear-gradient(top, #dd0808, #f2f2f2);
-  background-image: linear-gradient(top, #dd0808, #f2f2f2);
-  filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#'dd0808, endColorstr='#'f2f2f2, GradientType=0);
-}
+h1 {color:Red;}
 
 .navbar .brand {
   padding: 8px 20px 12px;
@@ -38,5 +28,5 @@ h1 {color:Pink;}
 .navbar .nav > .active > a:hover,
 .navbar .nav > .active > a:focus {
   color: #424242;
-}
+} 
 
